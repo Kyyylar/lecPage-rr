@@ -38,7 +38,6 @@ class StandingsPage extends Component {
     }
     render() {
         this.sortTeams();
-        console.log(this.state.standings);
         const places = [...this.state.standings].map((team, index) => 
         {
             let class_value = "";

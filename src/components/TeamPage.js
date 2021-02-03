@@ -29,7 +29,6 @@ class TeamPage extends Component {
         {
             if(this.checkpoints[0] === false)
             {
-                console.log("1");
                 document.querySelector('section.third').classList.add('active');
                 this.add = sectionTwoHeight + sectionTwoTop;
                 console.log(this.add);
@@ -37,7 +36,6 @@ class TeamPage extends Component {
             }
             else if(this.checkpoints[1] === false && window.scrollY > this.add + sectionThreeHeight + 200)
             {
-                console.log("2");
                 document.querySelector('section.fourth div.player:nth-child(1)').classList.add('active');
                 this.checkpoints[1] = true;
                 this.add += sectionThreeHeight + 300;
@@ -45,7 +43,6 @@ class TeamPage extends Component {
             }
             else if(window.scrollY > this.add + divs[0].offsetHeight + 200 && this.checkpoints[2] === false && this.checkpoints[1] === true)
             {
-                console.log("3");
                 document.querySelector('section.fourth div.player:nth-child(2)').classList.add('active');
                 this.add +=  + divs[0].offsetHeight + 200;
                 console.log(this.add);
@@ -53,7 +50,6 @@ class TeamPage extends Component {
             }
             else if(window.scrollY > this.add + divs[1].offsetHeight + 200 && this.checkpoints[3] === false && this.checkpoints[2] === true)
             {
-                console.log("4");
                 document.querySelector('section.fourth div.player:nth-child(3)').classList.add('active');
                 this.add += divs[1].offsetHeight + 200;
                 console.log(this.add);
@@ -61,7 +57,6 @@ class TeamPage extends Component {
             }
             else if(window.scrollY > this.add + divs[2].offsetHeight + 200 && this.checkpoints[4] === false && this.checkpoints[3] === true)
             {
-                console.log("5");
                 document.querySelector('section.fourth div.player:nth-child(4)').classList.add('active');
                 this.add += divs[2].offsetHeight + 200;
                 console.log(this.add);
@@ -69,7 +64,6 @@ class TeamPage extends Component {
             }
             else if(window.scrollY > this.add + divs[3].offsetHeight + 200 && this.checkpoints[5] === false && this.checkpoints[4] === true)
             {
-                console.log("6");
                 document.querySelector('section.fourth div.player:nth-child(5)').classList.add('active');
                 this.checkpoints[5] = true;
             }
