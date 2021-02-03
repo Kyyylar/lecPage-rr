@@ -1,0 +1,525 @@
+{
+    "teams" : [
+        {
+            "id":"0",
+            "name":"Astralis",
+            "date": "2016-01-18",
+            "region":"Europa",
+            "location":"Dania",
+            "article": "Astralis dołączyło do EU LCS (teraźniejsze LEC) w 2019 roku pod nazwą Origen wtedy gdy w europejskiej lidze wprowadzony został model franczyzowy. W 2021 roku organizacja występować będzie już pod marką Astralis. Origen nie przeszło jedynie zmiany swojej nazwy, ale również w nowym roku zobaczymy zupełnie odnowiony sztab trenerski. Głównym trenerem został były zawodnik Baltat 'AoD' Alin-Ciprian, który współpracował z Origen jako asystent trenera oraz szkoleniowiec akademii znajdującej się w lidze hiszpańskiej. Origen pokazało swoją potęgę we wiosennym splicie 2019 roku, gdzie w składzie: Alphari, Kold, Nukeduck, Patrik, Mithy zajęło w lidze 2 miejsce. Na podium Origen stanęło również w 2020 roku we wiosennych rozgrywkach, zajęli wtedy 3 miejsce. Natomiast w ostatnim splicie Origen bardzo rozczarowało swoich fanów zajmując ostatnie miejsce w lidze. Rok 2021 jest bardzo obiecujący dla Astralis, być może powstaną jak feniks z popiołów i odbudują swoją dawną potęgę.",
+            "roster_2020": ["Alphari", "Xerxe", "Nukeduck", "Upset", "Jacktroll"],
+            "roster_2021": ["WhiteKnight", "Zanzarah", "Nukeduck", "Jeskla", "promisq"],
+            "players_desc": {
+                "top": {
+                    "name": "Matti Sormunen",
+                    "nick": "WhiteKnight",
+                    "country": "Finlandia",
+                    "prev_team": "Berlin International Gaming",
+                    "prev_team_league": "liga niemiecka",
+                    "desc": "24-letni gracz, który w przeszłości grał już na europejskiej scenie w organizacji UOL. "
+                },
+                "jungle": {
+                    "name": "Nikolay Akatov",
+                    "nick": "Zanzarah",
+                    "country": "Rosja",
+                    "prev_team": "AGO Rogue",
+                    "prev_team_league": "liga polska",
+                    "desc": "24-letni rosyjski gracz grający na pozycji junglera dla polskiej organizacji AGO Rogue. W swojej karierze zdążył już w trzy razy zdobyć pierwsze miejsce w polskiej lidze, wygrać turniej European Masters w 2020 roku oraz wygrać w pucharze polski również w 2020 roku. Po tak udanym splicie Zanzarah może dużo wnieść do drużyny Astralis. Będzie to jego debiut w europejskiej lidze."
+                },
+                "mid": {
+                    "name": "Erlend Våtevik Holm",
+                    "nick": "Nukeduck",
+                    "country": "Norwegia",
+                    "prev_team": "Origen (Teraz już Astralis)",
+                    "prev_team_league": "liga europejska",
+                    "desc": "24-letni gracz bardzo znany już na europejskiej scenie. Z europejską sceną jest związany od 2015 roku. Jest to bardzo solidny gracz, który wiele wnosi do drużyny. Był uważany za jednego z najlepszych europejskich midlanerów swego czasu. Jest również znany z wielkiego wachlarzu postaci jakimi grał w swojej karierze, a było ich aż 62"
+                },
+                "adc": {
+                    "name": "Jesper Klarin Strömberg",
+                    "nick": "Jeskla",
+                    "country": "Szwecja",
+                    "prev_team": "mousesports",
+                    "prev_team_league": "liga niemiecka",
+                    "desc": "20-letni gracz, który pomimo młodego wieku debiutował już w europejskiej lidze w 2018 roku w drużynie EXCEL. "
+                },
+                "support": {
+                    "name": "Hampus Mikael Abrahamsson",
+                    "nick": "promisq",
+                    "country": "Szwecja",
+                    "prev_team": "mousesports",
+                    "prev_team_league": "liga niemiecka",
+                    "desc": "26-letni doświadczony gracz, który w przeszłości grał w takich organizacjach jak: FC Shalke 04, H2k-Gaming, a nawet w najlepszej europejskiej drużynie G2 Esports, ale jako rezerwowy, lecz zdażyło mu się wystąpić w pierwszym składzie podczas kontuzji nadgarstka głównego supporta G2."
+                }
+            }
+        },
+        {
+            "id":"1",
+            "name":"Excel",
+            "date": "2014-12-??",
+            "region":"Europa",
+            "location":"Wielka Brytania",
+            "article": "Excel dołączyło do europejskiej ligi LEC jako część programu franczyzowego. Nie udało się im jeszcze osiągnąć nic wielkiego w europejskiej lidze. Zajmowali kolejno 9, 10, 7 oraz 7 miejsce. Ten rok może być dla nich czasem na to, aby podnieść się z kolan. Ściągnięcie dwóch obiecujących zawodników oraz pozostawienie w drużynie solidnych graczy mogą zagwarantować im rekordowe miejsce w ich historii z europejską ligą.",
+            "roster_2020": ["Kryze", "Caedrel", "Special", "Patrik", "Tore"],
+            "roster_2021": ["Kryze", "Dan", "Czekolad", "Patrik", "Tore"],
+            "players_desc": {
+                "top": {
+                    "name": "Felix Hellström",
+                    "nick": "Kryze",
+                    "country": "Szwecja",
+                    "prev_team": "EXCEL",
+                    "prev_team_league": "liga europejska",
+                    "desc": "21-letni gracz, który zagra kolejny split w składzie EXCEL. Nie udało mu się jeszcze osiągnąć nic specjalnego w europejskiej lidze, ale być może 2021 będzie dla niego przełomowym rokiem."
+                },
+                "jungle": {
+                    "name": "Daniel Hockley",
+                    "nick": "Dan",
+                    "country": "Wielka Brytania",
+                    "prev_team": "Fnatic Rising",
+                    "prev_team_league": "liga brytyjska",
+                    "desc": "24 letni brytyjski gracz, który nie raz wygrywał ligę brytyjską, ale w europejskiej lidze zadebiutuje poraz pierwszy."
+                },
+                "mid": {
+                    "name": "Paweł Szczepanik",
+                    "nick": "Czekolad",
+                    "country": "Polska",
+                    "prev_team": "AGO Rogue",
+                    "prev_team_league": "liga polska",
+                    "desc": "20-letni utalentowany gracz z polski, który wygrał w składzie AGO Rogue polską ligę. W europejskiej lidze będzie jedynym polskim midlanerem od dłuższego już czasu, więc ciekawe będzie jak się zaprezentuje w swoim debiucie w LEC."
+                },
+                "adc": {
+                    "name": "Patrik Jírů",
+                    "nick": "Patrik",
+                    "country": "Czechy",
+                    "prev_team": "EXCEL",
+                    "prev_team_league": "liga europejska",
+                    "desc": "20-letni gracz, który bardzo wcześnie, bo już od 2017 roku zaczął grać w europejskiej lidze pod nickiem Sheriff. W EU LCS zadebiutował w barwach H2K-Gaming. Jest to utalentowany i bardzo solidny adc, który nie raz w dużej mierze przyczyniał się do wygranych drużyny EXCEL."
+                },
+                "support": {
+                    "name": "Tore Hoel Eilertsen",
+                    "nick": "Tore",
+                    "country": "Norwegia",
+                    "prev_team": "EXCEL",
+                    "prev_team_league": "liga europejska",
+                    "desc": "21-letni support, który ponownie wystąpi w barwach EXCEL. Dawniej występował pod nickiem Norskeren. Jego ulubioną postacią jest Thresh."
+                }
+            }
+        },
+        {
+            "id":"2",
+            "name":"Fnatic",
+            "date": "2011-03-14",
+            "region":"Europa",
+            "location":"Wielka Brytania",
+            "article": "Fnatic to jedna z najlepszych europejskich organizacji, która już nie jeden raz stawała na podium i dominowała w europejskiej lidze. Jest prawdopodobnie najbardziej znaną europejską formacją w grze League of Legends oraz posiada rzeszę fanów. Fnatic wygrało pierwszy międzynarodowy turniej w 2011 roku. Byli uważani za najlepszą europejską drużynę, do czasu aż G2 Esports zaczęło wygrywać split za splitem, a Fnatic od tego momentu cały czas jest krok za nimi. W 2021 roku nie zobaczymy już Rekklesa, czyli ikonicznego gracza Fnatic oraz midlanera Nemesisa, po dobrych lecz nie wybitnych występach we Fnatic. Natomiast na ich miejsce wchodzą dwaj nowi zawodnicy, czyli Nisqy oraz Upset. Czy nowe transfery wyjdą im na dobre, to się dopiero okaże.",
+            "roster_2020": ["Bwipo", "Selfmade", "Nemesis", "Rekkles", "Hylissang"],
+            "roster_2021": ["Bwipo", "Selfmade", "Nisqy", "Upset", "Hylissang"],
+            "players_desc": {
+                "top": {
+                    "name": "Gabriël Rau",
+                    "nick": "Bwipo",
+                    "country": "Belgia",
+                    "prev_team": "Fnatic",
+                    "prev_team_league": "liga europejska",
+                    "desc": "22-letni gracz, który na kolejny sezon pozostaje we Fnatic. Dołączył do Fnatic w 2018 roku i wywalczył miejsce w składze wchodząc za słynnego i doświadczonego gracza, a mianowicie sOAZa. Po tym jak pokazał się z dobrej strony i zaprezentował swoją różnorodność oraz kreatywność, Fnatic postanowiło go zatrzymać. Bwipo wniósł wiele do swojej drużyny i jest jednym z najlepszych europejskich toplanerów."
+                },
+                "jungle": {
+                    "name": "Oskar Boderek",
+                    "nick": "Selfmade",
+                    "country": "Polska",
+                    "prev_team": "Fnatic",
+                    "prev_team_league": "liga europejska",
+                    "desc": "21-letni polski gracz, który do europejskiej ligi trafił stosunkowo niedawno, bo w 2018 roku i już w 2019 roku zdobył najwięcej tytułów zawodnika meczu. Jest uważany za jednego z najlepszych junglerów w europie."
+                },
+                "mid": {
+                    "name": "Yasin Dinçer",
+                    "nick": "Nisqy",
+                    "country": "Belgia",
+                    "prev_team": "Cloud9",
+                    "prev_team_league": "liga amerykańska",
+                    "desc": "22-letni zawodnik, który ostatnie 3 lata spędził w lidze amerykańskiej. Powszechnie uważa się, że w ameryce poziom midlanerów jest dość niski, ale drużyna Fnatic postawiła właśnie na niego."
+                },
+                "adc": {
+                    "name": "Elias Lipp",
+                    "nick": "Upset",
+                    "country": "Niemcy",
+                    "prev_team": "Origen",
+                    "prev_team_league": "liga europejska",
+                    "desc": "21-letni solidny niemiecki zawodnik, który jest jednym z najlepszych europejskich adc. Wiele osób uważa, że jego umiejętności są przeceniane, ale Fnatic szukając dobrego adc, który mógłby zastąpić Rekklesa postawiło właśnie na niego. W 2021 roku ma on wiele do udowodnienia i wiele oczu będzie spoglądać właśnie na niego."
+                },
+                "support": {
+                    "name": "Zdravets Iliev Galabov",
+                    "nick": "Hylissang",
+                    "country": "Bułgaria",
+                    "prev_team": "Fnatic",
+                    "prev_team_league": "liga europejska",
+                    "desc": "25-letni doświadczony gracz, znany z agresywnych zagrań i często także wątpliwych i kontrowersyjnych. Gra we Fnatic od 2017 roku i drużyna dalej na nim polega, mimo głosu wielu osób, że pora się go już pozbyć. Hylissang wnosi wiele do swojej drużyny nawet jeśli czasami tego nie widać."
+                }
+            }
+        },
+        {
+            "id":"3",
+            "name":"G2 Esports",
+            "date": "2015-10-15",
+            "region":"Europa",
+            "location":"Hiszpania",
+            "article": "G2 to obecnia najlepsza europejska drużyna, znana ze swojego wielkiego ego oraz prześmiewczego charakteru. Od 2017 roku totalnie dominują europejską scenę. W 2019 roku wygrali turniej międzynarodowy MSI, a następnie na mistrzostwach świata zajęli 2 miejsce. 2019 rok był zdecydowanie ich rokiem. W 2020 roku wygrali ligę europejską pokonując w finale Fnatic 3-0. Na mistrzostwach świata dotarli do półfinału. W tym roku postanowili, że ich skład opuści ikona tej drużyny, czyli Perkz, a na jego miejsce wchodzi ikona drużyny Fnatic, czyli Rekkles. Ich ambicją jest wreszcie wygrać mistrzostwa świata, kto wie może w 2021 roku wkońcu się to spełni.",
+            "roster_2020": ["Wunder", "Jankos", "Caps", "Perkz", "Mikyx"],
+            "roster_2021": ["Wunder", "Jankos", "Caps", "Rekkles", "Mikyx"],
+            "players_desc": {
+                "top": {
+                    "name": "Martin Nordahl Hansen",
+                    "nick": "Wunder",
+                    "country": "Dania",
+                    "prev_team": "G2 Esports",
+                    "prev_team_league": "liga europejska",
+                    "desc": "22-letni duński gracz, który już 4 rok zagra w barwach G2 Esports. Jest to bardzo solidny gracz, swego czasu był prawdopodobnie najlepszym toplanerem w europie."
+                },
+                "jungle": {
+                    "name": "Marcin Jankowski",
+                    "nick": "Jankos",
+                    "country": "Polska",
+                    "prev_team": "G2 Esports",
+                    "prev_team_league": "liga europejska",
+                    "desc": "25 letni najbardziej znany polski zawodnik w League of Legends. Jest znany ze swojego poczucia humoru. Będzie to jego 4 rok w barwach G2. Do jego kolekcji osiągnięć brakuje mu jedynie wygrania mistrzostw świata, czego na pewno będzie starał się dokonać w 2021 roku."
+                },
+                "mid": {
+                    "name": "Rasmus Borregaard Winther",
+                    "nick": "Caps",
+                    "country": "Dania",
+                    "prev_team": "G2 Esports",
+                    "prev_team_league": "liga europejska",
+                    "desc": "21-letni utalentowany duński gracz, uważany za jednego z najlepszych midlanerów na świecie. Swego czasu znany był jako 'Baby Faker', a Faker jest uważany za najlepszego gracza w historii League of Legends. Mimo młodego wieku w League of Legends osiągnął prawie wszytko, wystarczy mu jeszcze wygrać mistrzostwa świata. "
+                },
+                "adc": {
+                    "name": "Martin Larsson",
+                    "nick": "Rekkles",
+                    "country": "Szwecja",
+                    "prev_team": "Fnatic",
+                    "prev_team_league": "liga europejska",
+                    "desc": "24-letni szeroko znany gracz, który jest jednym z najlepszych adc w europie. Grał w barwach Fnatic ponad 6 lat i jest swego rodzaju ikoną tej organizacji. Postanowił przejść do G2, aby spełnić marzenie o zostaniu mistrzem świata w League of Legends. Jest to zdecydowanie jedna z najciekawszych postaci roku 2021 w League of Legends i wszystkie oczy będą skierowane w jego stronę."
+                },
+                "support": {
+                    "name": "Mihael Mehle",
+                    "nick": "Mikyx",
+                    "country": "Słowenia",
+                    "prev_team": "G2",
+                    "prev_team_league": "liga europejska",
+                    "desc": "22-letni wspierający w drużynie G2 Esports. Jest bardzo utalentowanym zawodnikiem i bez dwóch zdań jednym z najlepszych supportów na świecie. "
+                }
+            }
+        },
+        {
+            "id":"4",
+            "name":"MAD Lions",
+            "date": "2017-08-31",
+            "region":"Europa",
+            "location":"Hiszpania",
+            "article": "MAD Lions to hiszpańska drużyna, która występowała kiedyś pod nazwą 'Splyce'. W ostatnim splicie zajęli drugie miejsce w tabeli, byli blisko pierwszego, ale słabo zagrali w ostatnim tygodniu. Na mistrzostwach świata odpali już w fazie play-in. Ich młodziutki skład przez większość czasu dominował w lidzę europejskiej w ostatnim czasie, zaskakując wszystkich. Ciekawe czy będą potrafili powtórzyć swoją dobrą passę w 2021 roku.",
+            "roster_2020": ["Orome", "Shad0w", "Humanoid", "Carzzy", "Kaiser"],
+            "roster_2021": ["Armut", "Elyoya", "Humanoid", "Carzzy", "Kaiser"],
+            "players_desc": {
+                "top": {
+                    "name": "İrfan Berk Tükek",
+                    "nick": "Armut",
+                    "country": "Turcja",
+                    "prev_team": "SuperMassive",
+                    "prev_team_league": "liga turecka",
+                    "desc": "22-letni gracz z turcji. Razem ze swoją dawną drużyną wygrał ligę turecką. Jest on jedną wielką niewiadomą i ciekawe jak poradzi sobie w europie."
+                },
+                "jungle": {
+                    "name": "Javier Prades",
+                    "nick": "Elyoya",
+                    "country": "Hiszpania",
+                    "prev_team": "Movistar Riders",
+                    "prev_team_league": "liga hiszpańska",
+                    "desc": "Ten młody i jeszcze niezbyt doświadczony zadownik dołącza do ekipy MAD Lions po bardzo dobrym sezonie w drużynie Movistar Riders, gdzie zdobył pierwsze miejsce w tabeli oraz wygrał ligę. To jak pokaże się w drużynie MAD Lions pozostaje wielką zagadką. "
+                },
+                "mid": {
+                    "name": "Marek Brázda",
+                    "nick": "Humanoid",
+                    "country": "Czechy",
+                    "prev_team": "MAD Lions",
+                    "prev_team_league": "liga europejska",
+                    "desc": "Ten młodziutki jeszcze, bo 20-letni gracz świetnie prezentował się w ostatnim splicie. MAD Lions postanowiło przedłużyć mu kontrakt do 21 listopada 2022 roku. Był on pierwszym zawodnikiem z Czech, który zagrał na mistrzostwach świata."
+                },
+                "adc": {
+                    "name": "Matyáš Orság",
+                    "nick": "Carzzy",
+                    "country": "Czechy",
+                    "prev_team": "MAD Lions",
+                    "prev_team_league": "liga europejska",
+                    "desc": "Młodziutki 18-letni zawodnik, który jest jednym z najlepszych adc aktualnie w europie. Już w wieku 14 lat wbił najwyższą rangę w grze League of Legends. Będzie on na pewno w roku 2021 bardzo ważną częścią zespołu MAD Lions. "
+                },
+                "support": {
+                    "name": "Norman Kaiser",
+                    "nick": "Kaiser",
+                    "country": "Niemcy",
+                    "prev_team": "MAD Lions",
+                    "prev_team_league": "liga europejska",
+                    "desc": "22-letni wspierający w drużynie MAD Lions. Jest bardzo utalentowanym graczem, czego nie raz dowodził w drużynie MAD. Występował kiedyś pod nickiem Gistick."
+                }
+            }
+        },
+        {
+            "id":"5",
+            "name":"Misfits Gaming",
+            "date": "2016-05-18",
+            "region":"Europa",
+            "location":"Stany Zjednoczone",
+            "article": "Misfits Gaming to drużyna, która w 2016 roku zakwalifikowała się do EULCS(teraźniejsze LEC). W pierwszym roku na europejskiej scenie pokazała się z bardzo dobrej strony. We wiosennym splicie zajęli 2 miejsce w tabeli, a w Playoffach udało im się wywalczyć 4 miejsce. Natomiast w letnim splicie zajęli 3 miejsce w tabeli, a w Playoffach zdobyli 2 pozycję. Następnie pojechali na worldsy i byli blisko podonania słynnej koreańskiej drużyny SKT, niestety przegrali 2:3. Misfits miało swoje 5 minut i od tego czasu nie stawali już na podium w europie.",
+            "roster_2020": ["Dan Dan", "Razork", "FEBIVEN", "Kobbe", "Doss"],
+            "roster_2021": ["Agresivoo", "Razork", "Vetheo", "Kobbe", "denyk"],
+            "players_desc": {
+                "top": {
+                    "name": "Tobiasz Ciba",
+                    "nick": "Agresivoo",
+                    "country": "Polska",
+                    "prev_team": "Misfits Premier",
+                    "prev_team_league": "liga francuska",
+                    "desc": "21-letni zawodnik z polski, który nie miał okazji zagrać jeszcze w europejskiej lidze, ale w swojej karierze zdążył już wygrać turniej ESL EuroCup w 2019 roku, oraz wygrać finały w lidze francuskiej, będąc w akademi drużyny Misfits."
+                },
+                "jungle": {
+                    "name": "Iván Martín Díaz",
+                    "nick": "Razork",
+                    "country": "Hiszpania",
+                    "prev_team": "Misfits Gaming",
+                    "prev_team_league": "liga europejska",
+                    "desc": "20-letni zawodnik, którego ponownie zobaczymy w barwach Misfits Gaming. Ma za sobą niezbyt udany split. Jego drużyna zajęła 5 miejsce w tabeli, a w Playoffach wylądowała na 6 miejscu. Być może w 2021 roku z nowym składem, będzie w stanie pokazać się z lepszej strony i osiągnąć coś więcej."
+                },
+                "mid": {
+                    "name": "Vincent Berrié",
+                    "nick": "Vetheo",
+                    "country": "Francja",
+                    "prev_team": "LDLC OL",
+                    "prev_team_league": "liga francuska",
+                    "desc": "Ten młodziutki 18-letni zawodnik nie gra jeszcze zbyt długo na esportowej scenie lola, ale już udało mu się wygrać turniej EU Masters oraz w finałach ligi francuskiej zająć 3 miejsce. W kategorii zawodnika meczu w lidzę francuskiej zajął 2 miejsce. Jest na pewno ciekawym transferem dla misfits i może wiele wnieść do swojej nowej drużyny."
+                },
+                "adc": {
+                    "name": "Kasper Kobberup",
+                    "nick": "Kobbe",
+                    "country": "Dania",
+                    "prev_team": "TSM",
+                    "prev_team_league": "liga amerykańska",
+                    "desc": "Ten 24-letni zawodnik z Danii w przeszłości grał już w europejskiej lidze aż 4 lata i pokazywał się z bardzo dobrej strony. Na pół roku związał się z drużyną TSM w ameryce, ale szybko wraca do europy. Ciekawe czy po sezonie w ameryce będzie w stanie powtórzyć swoje dobre występy z przeszłości"
+                },
+                "support": {
+                    "name": "Oskar Bogdan",
+                    "nick": "Vander",
+                    "country": "Polska",
+                    "prev_team": "Rogue",
+                    "prev_team_league": "liga europejska",
+                    "desc": "26-letni zawodnik z polski, który od wielu lat gra już na scenie europejskiej, utrzymując swoje umiejętności na wysokim poziomie. Jest od lat jednym z najlepszych supportów w europie oraz bardzo solidnym graczem, na którym drużyna może zawsze polegać. Wygrał w przeszłości ligę polską oraz zajął pierwsze miejsce w tabeli LEC."
+                }
+            }
+        },
+        {
+            "id":"6",
+            "name":"Rogue",
+            "date": "2016-05-03",
+            "region":"Europa",
+            "location":"Stany Zjednoczone",
+            "article": "Rogue to drużyna, która do ligi europejskiej LEC dołączyła niedawno, bo w 2019 roku. W tym również roku zajęła ostatnie miejsce wygrywając jedynie dwie gry z osiemnastu. Rogue jednak bardzo szybko odbiło się od dna i wspięło się na szczyt zajmując pierwsze miejsce w tabeli w ostatnim splicie. Jest to piękny przykład jak niespodziewane rzeczy mogą dziać się w esporcie. Rogue ma za sobą bardzo dobry split, w następnym zobaczymy dwóch nowych zawodników i ciekawe czy Rogue będzie w stanie podtrzymać swoją formę.",
+            "roster_2020": ["Finn", "Inspired", "Larssen", "Hans sama", "Vander"],
+            "roster_2021": ["Odoamne", "Inspired", "Larssen", "Hans sama", "Trymbi"],
+            "players_desc": {
+                "top": {
+                    "name": "Andrei Pascu",
+                    "nick": "Odoamne",
+                    "country": "Rumunia",
+                    "prev_team": "FC Schalke 04",
+                    "prev_team_league": "liga europejska",
+                    "desc": "26-letni zawodnik z bagażem doświadczeń, który od 2014 roku gra w europejskiej lidze i dalej się w niej utrzymuje. Jego najlepsze osiągnięcie z ostatnich lat to 3 miejsce w playoffach LEC w 2019 roku"
+                },
+                "jungle": {
+                    "name": "Kacper Słoma",
+                    "nick": "Inspired",
+                    "country": "Polska",
+                    "prev_team": "Rogue",
+                    "prev_team_league": "liga europejska",
+                    "desc": "18-letni młodziutki zawodnik z polski, który bardzo pozytywnie zaskoczył w europejskiej lidze. Wygrał ligę polską w akademii Rogue, a następnie zajął pierwsze miejsce w tabeli grając w Rogue. Jest obecnie jednym z najlepszych junglerów w europie."
+                },
+                "mid": {
+                    "name": "Emil Larsson",
+                    "nick": "Larssen",
+                    "country": "Szwecja",
+                    "prev_team": "Rogue",
+                    "prev_team_league": "liga europejska",
+                    "desc": "20-letni zawodnik, który podobnie jak swój kolega z drużyny wygrał ligę polską totalnie dominując polską scenę, a następnie wywalczył 1 miejsce w tabeli LEC. Świetnie prezentuje się na europejskiej scenie i jest jednym z najlepszych midlanerów."
+                },
+                "adc": {
+                    "name": "Kasper Kobberup",
+                    "nick": "Kobbe",
+                    "country": "Dania",
+                    "prev_team": "TSM",
+                    "prev_team_league": "liga amerykańska",
+                    "desc": "Ten 24-letni zawodnik z Danii w przeszłości grał już w europejskiej lidze aż 4 lata i pokazywał się z bardzo dobrej strony. Na pół roku związał się z drużyną TSM w ameryce, ale szybko wraca do europy. Ciekawe czy po sezonie w ameryce będzie w stanie powtórzyć swoje dobre występy z przeszłości"
+                },
+                "support": {
+                    "name": "Adrian Trybus",
+                    "nick": "Trymbi",
+                    "country": "Polska",
+                    "prev_team": "AGO ROGUE",
+                    "prev_team_league": "liga polska",
+                    "desc": "20-letni gracz debiutujący w lidze europejskiej. Młody i jeszcze niedoświadczony gracz z akademi Rogue trafia do pierwszego składu na rok 2021. Czy sprosta oczekiwaniom grając w jednej z topowych europejskich drużyn? To się okaże."
+                }
+            }
+        },
+        {
+            "id":"7",
+            "name":"FC Schalke 04 Esports",
+            "date": "2016-05-16",
+            "region":"Europa",
+            "location":"Niemcy",
+            "article": "Organizacja znana z piłki nożnej w 2016 postanawia założyć swoją dywizję w lolu. Ich najwyższe zdobyte miejsce w historii to 3 miejsce w playoffach w LEC w 2019 roku oraz 3 miejsce w tabeli w 2018 roku w letnim splicie. W 2020 roku Schalke dokonało czegoś prawie niemożliwego. Pod koniec sezonu z jednej wygranej oraz dziesięciu porażek, wychodzą ostatecznie z wynikiem: 8 wygranych 10 porażek. Schalke wygrało 7 gier z rzędu grając na najlepsze drużyny w europie takie jak G2 Esports, Fnatic oraz Origen. Ich niesamowity wyczyn został okrzyknięty miracle runem i na pewno zostanie na długo zapamiętany.",
+            "roster_2020": ["Odoamne", "Gillius", "Abbedagge", "Neon", "Dreams"],
+            "roster_2021": ["Broken Blade", "Gilius", "Abbedagge", "Neon", "LIMIT"],
+            "players_desc": {
+                "top": {
+                    "name": "Sergen Çelik",
+                    "nick": "Broken Blade",
+                    "country": "Niemcy",
+                    "prev_team": "TSM",
+                    "prev_team_league": "liga amerykańska",
+                    "desc": "Młody 21-letni zawodnik, który 2 lata spędził w lidze amerykańskiej w barwach znanej amerykańskiej organizacji TSM. W 2021 zadebiutuje w lidzę europejskiej. Jego nick wziął się od broni jednej z postaci: Riven."
+                },
+                "jungle": {
+                    "name": "Erberk Demir",
+                    "nick": "Gillius",
+                    "country": "Niemcy",
+                    "prev_team": "FC Schalke 04",
+                    "prev_team_league": "liga europejska",
+                    "desc": "24-letni zawodnik, który już nie jeden raz grał w europejskiej lidze i z niej odchodził. Końcówka ostatniego splitu była świetna w jego wykonaniu. Jest to zawodnik, który nie może odnaleźć dobrej, statecznej formy, ale może w 2021 roku wkońcu ją ustabilizuje i pokaże na co go stać."
+                },
+                "mid": {
+                    "name": "Felix Braun",
+                    "nick": "Abbedagge",
+                    "country": "Niemcy",
+                    "prev_team": "FC Schalke 04",
+                    "prev_team_league": "liga europejska",
+                    "desc": "21-letni zawodnik, który w ostatnim splicie pod koniec grał niesamowicie dobrze aż okrzyknięty został przezwiskiem: Fakerdagge, od słynnego koreańskiego gracza Fakera. 2021 będzie jego 3 rokiem w europejskiej lidze."
+                },
+                "adc": {
+                    "name": "Matúš Jakubčík",
+                    "nick": "Neon",
+                    "country": "Słowenia",
+                    "prev_team": "FC Schalke 04",
+                    "prev_team_league": "liga europejska",
+                    "desc": "21-letni botlaner grający dla drużyny FC Schalke 04. W przeszłości wygrał niemiecką ligę grając dla akademii Schalke."
+                },
+                "support": {
+                    "name": "Dino Tot",
+                    "nick": "LIMIT",
+                    "country": "Chorwacja",
+                    "prev_team": "SK Gaming",
+                    "prev_team_league": "liga europejska",
+                    "desc": "23-letni gracz z chorwacji, który nie osiągnął w esporcie jeszcze nic nadzwyczajnego, ale imponuje swoją solidną grą w roli wspierającego. Być może w 2021 roku uda mu się osiągnąć coś wielkiego i poprowadzić swoją drużynę do czegoś większego."
+                }
+            }
+        },
+        {
+            "id":"8",
+            "name":"SK Gaming",
+            "date": "2010-09-16",
+            "region":"Europa",
+            "location":"Niemcy",
+            "article": "Niemiecki zespół, który został założony w 2010 roku. Drużyna miała swoje wzloty i upadki, ale udało im się w 2015 roku zakończyć split na pierwszym miejscu w tabeli z wynikiem 15-3. W ciągu ostatnich dwóch lat najwyższa pozycją jaką zajęli biorąc pod uwagę każdy split to miejsce 5, kończąc z wynikiem 9-9. Drużyna SK nie potrafi się przełamać i zakończyć z pozytywnym wynikiem. Na pewno spróbują osiągnąć to w roku 2021, a mając wymienionych aż czterech zawodników, pośród których znajdują się młode talenty, być może uda im się osiągnąć ten cel.",
+            "roster_2020": ["Jenax", "Trick", "ZaZee", "Crownshot", "LIMIT"],
+            "roster_2021": ["Jenax", "TynX", "Blue", "Jezu", "Treatz"],
+            "players_desc": {
+                "top": {
+                    "name": "Janik Bartels",
+                    "nick": "Jenax",
+                    "country": "Niemcy",
+                    "prev_team": "SK Gaming",
+                    "prev_team_league": "liga europejska",
+                    "desc": "22-letni toplaner, który kolejny rok zagra w barwach SK Gaming. Jako jedyny pozostał w drużynie i to on jest filarem tego zespołu. Większość swojej kariery grał na pozycji mid, a w poprzednim roku przeniósł się na topa."
+                },
+                "jungle": {
+                    "name": "Kristian Østergaard Hansen",
+                    "nick": "TynX",
+                    "country": "Dania",
+                    "prev_team": "LDLC OL",
+                    "prev_team_league": "liga francuska",
+                    "desc": "21-letni zawodnik, który debiutuje w europejskiej lidze. W przeszłości udało mu się wygrać EU Masters oraz ligę francuską. "
+                },
+                "mid": {
+                    "name": "Ersin Gören",
+                    "nick": "Blue",
+                    "country": "Belgia",
+                    "prev_team": "1907 Fenerbahçe",
+                    "prev_team_league": "liga turecka",
+                    "desc": "Jest to bardzo utalentowany, młodziutki gracz, który wygrał w przeszłości ligę turecką oraz zdobył rangę numer 1 na zachodnim serwerze EUW."
+                },
+                "adc": {
+                    "name": "Jean Massol",
+                    "nick": "Jezu",
+                    "country": "Francja",
+                    "prev_team": "Misfits Premier",
+                    "prev_team_league": "liga francuska",
+                    "desc": "20-letni gracz, grający na pozycji adc, który w 2020 roku wygrał ligę francuską. Poprzednim jego nickiem był: Jesus."
+                },
+                "support": {
+                    "name": "Erik Wessén",
+                    "nick": "Treatz",
+                    "country": "Szwecja",
+                    "prev_team": "TSM",
+                    "prev_team_league": "liga amerykańska",
+                    "desc": "24-letni gracz, który zadebiutuje w europejskiej lidze. Pod koniec 2020 roku razem z drużyną TSM udało mu się wygrać ligę amerykańską pokonując drużynę Fly Quest 3:2."
+                }
+            }
+        },
+        {
+            "id":"9",
+            "name":"Team Vitality",
+            "date": "2015-12-09",
+            "region":"Europa",
+            "location":"Francja",
+            "article": "Francuska organizacja, która wkroczyła na scenę europejską w 2016 roku. W tym samym roku zajęli oni 3 miejsce w tabeli LEC. Bardzo dobrze pokazali się w 2018 roku kiedy to zajęli 2 miejsce w tabeli oraz w playoffach wywalczyli 3 miejsce w lidze i dostali się na mistrzostwa świata.  Od tego czasu nie idzie im najlepiej, a 2020 rok był dla nich okropny. W tym oto roku we wiosnę zajęli 10 miejsce z wynikiem 2-16, a podczas letniego splitu zajęli miejsce 9 kończąc 7-11. W 2021 roku zmieniają jednak jedynie toplanera organizacji, ale czy to wystarczy żeby podnieść się z kolan?",
+            "roster_2020": ["Cabochard", "Skeanz", "Milica", "Comp", "Labrov"],
+            "roster_2021": ["Szygenda", "Skeanz", "Milica", "Comp", "Labrov"],
+            "players_desc": {
+                "top": {
+                    "name": "Mathias Jensen",
+                    "nick": "Szygenda",
+                    "country": "Dania",
+                    "prev_team": "AGO ROGUE",
+                    "prev_team_league": "liga polska",
+                    "desc": "19-letni młody toplaner, który wchodzi do składu za doświadczonego gracza. Jest on jedynym transferem na jaki zdecydowała się organizacja, ciekawe czy zdoła on poprowadzić drużynę ku czemuś lepszemu."
+                },
+                "jungle": {
+                    "name": "Duncan Marquet",
+                    "nick": "Skeanz",
+                    "country": "Francja",
+                    "prev_team": "Team Vitality",
+                    "prev_team_league": "liga europejska",
+                    "desc": "20-letni zawodnik z francji, który w 2020 roku przeniósł się z akademii do drużyny Vitality zastępując tym Nji'a. "
+                },
+                "mid": {
+                    "name": "Aljoša Kovandžić",
+                    "nick": "Milica",
+                    "country": "Serbia",
+                    "prev_team": "Team Vitality",
+                    "prev_team_league": "liga europejska",
+                    "desc": "Midlaner Vitality, który w przeszłości wygrał hiszpańską ligę oraz zajął 2 miejsce w EU Masters, co pozwoliło mu zostać zauważonym i wkroczyć do ligi europejskiej"
+                },
+                "adc": {
+                    "name": "Markos Stamkopoulos",
+                    "nick": "Comp",
+                    "country": "Grecja",
+                    "prev_team": "Team Vitality",
+                    "prev_team_league": "liga europejska",
+                    "desc": "19-letni młodziutki, jeden z dwóch greckich zawodników w drużynie Vitality. W przeszłości udało mu się nie raz odnościć sukcesy w lidze francuskiej."
+                },
+                "support": {
+                    "name": "Labros Papoutsakis",
+                    "nick": "Labrov",
+                    "country": "Grecja",
+                    "prev_team": "Team Vitality",
+                    "prev_team_league": "liga europejska",
+                    "desc": "Bardzo młody, bo dopiero 18-letni gracz, drugi grecki zawodnik z drużyny Vitality. Ma potencjał żeby zostać jednym z najlepszych supportów w europie."
+                }
+            }
+        }
+        
+        ]
+}

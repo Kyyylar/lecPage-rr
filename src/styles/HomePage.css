@@ -1,0 +1,218 @@
+.home {
+    min-height: 100vh;
+    display: flex;
+    position: relative;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+div.home:after {
+
+    content: "";
+    background: url('../images/lec1.jpg');
+    opacity: 1;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: fixed;
+    z-index: 1;
+    animation: bgChange 15s infinite;
+}
+
+div.home.clicked:after {
+    z-index: -1;
+}
+
+.home header {
+    flex-basis: 100%;
+    padding: 20px 0;
+    text-align: center;
+    border-top: 2px solid #333;
+    border-bottom: 2px solid #333;
+    background-color: white;
+    word-spacing: 2px;
+    color: #333;
+}
+
+.home header h1 {
+    font-family: 'Josefin Sans', sans-serif;
+    text-transform: uppercase;
+}
+
+.home article {
+    flex-basis: calc(100% - 340px);
+    background-color: rgba(255, 255, 255, 0.7);
+    ;
+    border: 2px solid rgb(0, 0, 0);
+    margin-top: 20px;
+    margin-left: 20px;
+    max-width: 600px;
+    padding: 10px 20px;
+    box-shadow: -5px 5px rgb(0, 0, 0), -10px 10px rgba(0, 0, 0, 0.7), -15px 15px rgba(0, 0, 0, 0.4);
+}
+
+.home article p {
+    font-size: 30px;
+    line-height: 1.6;
+    color: rgb(0, 0, 0);
+}
+
+.teamlist {
+    margin: 20px 20px 0 0;
+    padding: 10px;
+    border: 2px solid rgb(255, 255, 255);
+    flex-basis: 300px;
+    height: 754px;
+    background-color: rgba(255, 255, 255, 0.7);
+    border: 1px solid black;
+    box-shadow: 5px 5px rgb(0, 0, 0), 10px 10px rgba(0, 0, 0, 0.7), 15px 15px rgba(0, 0, 0, 0.4);
+}
+
+.teamlist h2 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    border-bottom: 2px solid rgb(0, 0, 0);
+}
+
+.teamlist ul {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 10px;
+    height: 700px;
+}
+
+.teamlist ul li {
+    list-style-type: none;
+    flex-basis: 110px;
+    height: 110px;
+    margin: 10px auto;
+    padding: 0 5px;
+}
+
+.teamlist ul li h4 {
+    text-align: center;
+    color: black;
+}
+
+.teamlist img {
+    display: block;
+    height: 100%;
+    width: 100%;
+    padding: 10px;
+}
+
+@keyframes bgChange {
+    0% {
+        opacity: 1;
+        background: url('../images/lec1.jpg');
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+    }
+
+    30% {
+        opacity: 1;
+        background: url('../images/lec1.jpg');
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+    }
+
+    31% {
+        background-color: black;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+    }
+
+    32% {
+        background-color: black;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+    }
+
+    33% {
+        opacity: 1;
+        background: url('../images/lec2.jpg');
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+    }
+
+    63% {
+        opacity: 1;
+        background: url('../images/lec2.jpg');
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+    }
+
+    64% {
+        background-color: black;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+    }
+
+    65% {
+        background-color: black;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+    }
+
+    66% {
+        opacity: 1;
+        background: url('../images/lec3.jpg');
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+    }
+
+    97% {
+        opacity: 1;
+        background: url('../images/lec3.jpg');
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+    }
+
+    98% {
+        background-color: black;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+    }
+
+    99% {
+        background-color: black;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+    }
+
+    100% {
+        opacity: 1;
+        background: url('../images/lec1.jpg');
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+    }
+}

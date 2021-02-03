@@ -1,0 +1,114 @@
+{
+    "teams" : [
+        {
+            "id": "0",
+            "name": "Team Vitality",
+            "place": "9",
+            "wins": "1",
+            "losses": "4",
+            "last_opponent": "Rogue",
+            "last_result": "Przegrana",
+            "next_opponent": "G2 Esports",
+            "next_match_date": "05-02-2021 20:00"
+        },
+        {
+            "id": "1",
+            "name": "Rogue",
+            "place": "1",
+            "wins": "5",
+            "losses": "0",
+            "last_opponent": "Team Vitality",
+            "last_result": "Wygrana",
+            "next_opponent": "Schalke 04",
+            "next_match_date": "05-02-2021 21:00"
+        },
+        {
+            "id": "2",
+            "name": "EXCEL",
+            "place": "5",
+            "wins": "2",
+            "losses": "3",
+            "last_opponent": "Astralis",
+            "last_result": "Wygrana",
+            "next_opponent": "Misfits Gaming",
+            "next_match_date": "05-02-2021 18:00"
+        },
+        {
+            "id": "3",
+            "name": "G2 Esports",
+            "place": "2",
+            "wins": "4",
+            "losses": "1",
+            "last_opponent": "Schalke 04",
+            "last_result": "Przegrana",
+            "next_opponent": "Team Vitality",
+            "next_match_date": "05-02-2021 20:00"
+        },
+        {
+            "id": "4",
+            "name": "MAD Lions",
+            "place": "3",
+            "wins": "3",
+            "losses": "2",
+            "last_opponent": "Fnatic",
+            "last_result": "Wygrana",
+            "next_opponent": "SK Gaming",
+            "next_match_date": "05-02-2021 19:00"
+        },
+        {
+            "id": "5",
+            "name": "Schalke 04",
+            "place": "3",
+            "wins": "3",
+            "losses": "2",
+            "last_opponent": "G2 Esports",
+            "last_result": "Wygrana",
+            "next_opponent": "Rogue",
+            "next_match_date": "05-02-2021 21:00"
+        },
+        {
+            "id": "6",
+            "name": "SK Gaming",
+            "place": "5",
+            "wins": "2",
+            "losses": "3",
+            "last_opponent": "Misfits Gaming",
+            "last_result": "Wygrana",
+            "next_opponent": "MAD Lions",
+            "next_match_date": "05-02-2021 19:00"
+        },
+        {
+            "id": "7",
+            "name": "Fnatic",
+            "place": "5",
+            "wins": "2",
+            "losses": "3",
+            "last_opponent": "MAD Lions",
+            "last_result": "Przegrana",
+            "next_opponent": "Astralis",
+            "next_match_date": "05-02-2021 22:00"
+        },
+        {
+            "id": "8",
+            "name": "Misfits Gaming",
+            "place": "5",
+            "wins": "2",
+            "losses": "3",
+            "last_opponent": "SK Gaming",
+            "last_result": "Przegrana",
+            "next_opponent": "EXCEL",
+            "next_match_date": "05-02-2021 18:00"
+        },
+        {
+            "id": "9",
+            "name": "Astralis",
+            "place": "9",
+            "wins": "1",
+            "losses": "4",
+            "last_opponent": "EXCEL",
+            "last_result": "Przegrana",
+            "next_opponent": "Fnatic",
+            "next_match_date": "05-02-2021 22:00"
+        }
+    ]   
+}

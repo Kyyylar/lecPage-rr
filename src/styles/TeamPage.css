@@ -1,0 +1,252 @@
+section.teampage {
+    margin-top: 400px;
+}
+
+section.unactive {
+    opacity: 0;
+}
+
+section.active {
+    opacity: 100%;
+}
+
+section.first {
+    position: relative;
+    margin: 0;
+    height: 300px;
+    width: 100%;
+}
+
+
+.first div.info {
+    position: absolute;
+    margin: 25px 10px;
+    height: 250px;
+    width: 250px;
+    right: 0;
+    top: 0;
+    text-align: center;
+}
+
+.first div.info img {
+    display: block;
+    margin: 0 auto;
+}
+
+section.first.active div.info {
+    animation: scale .5s linear;
+}
+
+.first div.info p {
+    color: white;
+    font-size: 20px;
+    font-family: 'Josefin Sans';
+    text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4),
+        0px 8px 13px rgba(0, 0, 0, 0.1),
+        0px 18px 23px rgba(0, 0, 0, 0.1);
+}
+
+.first div.info p span {
+    font-family: 'Josefin Sans';
+    color: red;
+}
+
+section.second {
+    margin-top: 50px;
+    padding: 0 30px;
+    width: 100%;
+}
+
+section.second.active {
+    animation: leftSlide 1s linear;
+}
+
+.second article {
+    width: 50%;
+    padding: 20px;
+    line-height: 1.6;
+    background-color: rgba(255, 255, 255, 0.7);
+    ;
+    border: 2px solid rgb(0, 0, 0);
+    box-shadow: -5px 5px rgb(0, 0, 0), -10px 10px rgba(0, 0, 0, 0.7), -15px 15px rgba(0, 0, 0, 0.4);
+    color: black;
+    text-align: justify;
+}
+
+.second article h2 {
+    font-family: 'Josefin Sans';
+}
+
+section.third {
+    position: relative;
+    width: 100%;
+    height: 300px;
+}
+
+.third div {
+    position: absolute;
+    height: 200px;
+    width: 400px;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid black;
+}
+
+.third div.zero {
+    top: 0;
+    left: 20%;
+    transform: translateX(-200%);
+    box-shadow: -10px 10px black;
+}
+
+.third div.one {
+    top: 0;
+    right: 20%;
+    transform: translateX(200%);
+    box-shadow: 10px 10px black;
+}
+
+.third div h2 {
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    border-bottom: 5px double black;
+}
+
+.third div ul {
+    height: calc(100% - 50px);
+    list-style: none;
+}
+
+.third ul li {
+    height: calc(20% - 5px);
+    margin: 5px;
+    text-align: center;
+}
+
+.third ul li p {
+    font-size: 20px;
+}
+
+section.third.active div.zero {
+    animation: leftSlide .7s linear both;
+}
+
+section.third.active div.one {
+    animation: rightSlide .7s linear both;
+}
+
+section.fourth {
+    display: flex;
+    flex-direction: column;
+}
+
+.fourth div.player {
+    margin: 100px 0;
+    padding: 20px;
+    width: 50%;
+    border: 2px solid black;
+    background-color: rgba(255, 255, 255, 0.603);
+}
+
+
+.fourth div.player p {
+    font-family: 'Josefin Sans';
+    font-size: 16px;
+}
+
+.fourth div.player h1 {
+    font-family: 'Josefin Sans';
+    font-size: 30px;
+}
+
+.fourth div.player span {
+    font-weight: bold;
+    color: rgb(139, 25, 25);
+}
+
+.fourth div.player p {
+    margin: 5px 0;
+}
+
+.fourth div.player p:last-child {
+    font-size: 18px;
+}
+
+.fourth div.player:nth-child(2n) {
+    align-self: flex-end;
+}
+
+.fourth div.player:nth-child(2n) h1 {
+    text-align: right;
+}
+
+.fourth div.player:nth-child(2n) p {
+    text-align: right;
+}
+
+
+.fourth div.player:nth-child(2n) p:nth-last-child(1) {
+    text-align: justify;
+    text-align-last: right;
+}
+
+.fourth div.player:nth-child(even) {
+
+    transform: translateX(200%);
+    margin-right: 10px;
+    box-shadow: 5px 5px black;
+}
+
+.fourth div.player:nth-child(odd) {
+    transform: translateX(-200%);
+    margin-left: 10px;
+    box-shadow: -5px 5px black;
+}
+
+.fourth div.player.active:nth-child(even) {
+
+    animation: rightSlide 1s linear both;
+}
+
+.fourth div.player.active:nth-child(odd) {
+    animation: leftSlide 1s linear both;
+}
+
+
+@keyframes leftSlide {
+    0% {
+        transform: translateX(-200%);
+    }
+
+    50% {
+        transform: translateX(-200%);
+    }
+
+    100% {
+        transform: translateX(0);
+    }
+}
+
+@keyframes rightSlide {
+    0% {
+        transform: translateX(200%);
+    }
+
+    50% {
+        transform: translateX(200%);
+    }
+
+    100% {
+        transform: translateX(0);
+    }
+}
+
+@keyframes scale {
+    0% {
+        transform: scale(0);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+}

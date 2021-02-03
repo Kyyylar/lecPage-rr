@@ -1,0 +1,80 @@
+div.standings {
+    display: flex;
+    flex-direction: row;
+    width: 1200px;
+    height: 575px;
+    margin: 0 auto;
+    border: 1px solid rgb(255, 255, 255);
+    box-shadow: -20px 20px 10px rgba(0, 0, 0, 0.589);
+    overflow: hidden;
+}
+
+div.standings::after {
+    content: "";
+    background: url('../images/tablebg.png');
+    background-size: cover;
+    opacity: 0.8;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: fixed;
+    z-index: -1;
+}
+
+div.col {
+    flex-grow: 1;
+    text-align: center;
+    line-height: 50px;
+}
+
+div.col div {
+    font-size: 20px;
+    font-family: 'Josefin Sans';
+    font-weight: bold;
+    height: 50px;
+    border-bottom: rgb(255, 255, 255) 2px solid;
+    border-right: rgb(255, 255, 255) 2px solid;
+    background-color: rgb(100, 145, 250);
+}
+
+div.col:nth-last-child(1) div {
+    border-right: none;
+}
+
+div.col:nth-child(1) div {
+    font-size: 20px;
+    font-family: 'Josefin Sans';
+    font-weight: bold;
+    color: white;
+}
+
+div.col div.gold {
+    background-color: gold;
+    color: #333;
+    font-size: 26px;
+}
+
+div.col div.silver {
+    background-color: silver;
+    color: #333;
+    font-size: 24px;
+}
+
+div.col div.bronze {
+    background-color: rgb(85, 59, 25);
+    font-size: 22px;
+}
+
+div.col div:nth-child(1) {
+    background-color: rgb(13, 4, 65);
+    height: 75px;
+    line-height: 75px;
+    color: rgb(255, 255, 255);
+    font-family: 'Josefin Sans';
+    font-size: 22px;
+}
+
+div.col div:nth-last-child(1) {
+    border-bottom: none;
+}
